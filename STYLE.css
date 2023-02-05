@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 200%;
+}
+h1{
+    font-size: 5.625rem;  
+    margin: 50px auto o auto;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.Top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.Middle-container {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+} 
+.Bottom-container {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+   bottom : 300px;
+    left: 300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+
+.Middle-container{
+    size: 100px;
+}
+
+.image-samiksha{
+    
+    width: 100px;
+    height: 100px;
+    background-size:contain;
+
+}
+
+.image-skills{
+    width: 50%;
+    height: 50%;
+    background-size:contain;
+background-position:center;
+
+    
+}
+
+.general-images-skill-images-2{
+    width: 50%;
+    height: 50%;
+    background-size:contain;
+background-position:center;
+
+}
